@@ -26,8 +26,8 @@ const Hero = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-foreground leading-tight mb-6 fade-in fade-in-delay-1">
-            Limpieza Profesional que{" "}
-            <span className="text-primary">Supera Expectativas</span>
+            Limpieza y Pintura{" "}
+            <span className="text-primary">Profesional en Madrid</span>
           </h1>
 
           {/* Subtitle from reviews */}

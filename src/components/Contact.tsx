@@ -203,6 +203,7 @@ const Contact = () => {
                     className="w-full h-12 px-3 rounded-lg border border-input bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
                   >
                     <option value="">Selecciona un servicio</option>
+                    <option value="pintura">Pintura de Interiores/Exteriores</option>
                     <option value="post-obra">Limpieza Post-Obra</option>
                     <option value="integral">Limpieza Integral de Viviendas</option>
                     <option value="cocinas-cristales">Cocinas y Cristales</option>
