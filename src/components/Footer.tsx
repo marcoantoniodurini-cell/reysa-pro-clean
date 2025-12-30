@@ -15,7 +15,7 @@ const Footer = () => {
               <span className="text-2xl font-bold">Reysa S.L.</span>
             </div>
             <p className="text-background/70 leading-relaxed mb-6 max-w-md">
-              Servicios profesionales de limpieza y mantenimiento en Madrid. 
+              Servicios profesionales de limpieza y pintura en Madrid. 
               Comprometidos con la excelencia, la puntualidad y la satisfacción 
               total de nuestros clientes.
             </p>

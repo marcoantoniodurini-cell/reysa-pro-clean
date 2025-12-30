@@ -35,10 +35,10 @@ const Index = () => {
   return (
     <>
       {/* SEO Meta Tags */}
-      <title>Reysa S.L. - Limpieza Profesional en Madrid | Post-Obra, Viviendas, Oficinas</title>
+      <title>Reysa S.L. - Limpieza y Pintura Profesional en Madrid | Presupuesto Gratis</title>
       <meta 
         name="description" 
-        content="Servicios de limpieza profesional en Madrid. Limpieza post-obra, integral de viviendas, cocinas, cristales y comunidades. ⭐ 5.0 en Google. Presupuesto gratis." 
+        content="Servicios profesionales de limpieza y pintura en Madrid. Limpieza post-obra, pintura interior/exterior, viviendas y comunidades. ⭐ 5.0 en Google. Presupuesto gratis." 
       />
 
       <div className="min-h-screen bg-background pb-20 md:pb-0">

@@ -1,4 +1,4 @@
-import { Sparkles, Home, ChefHat, Building2 } from "lucide-react";
+import { Sparkles, Home, Paintbrush, Building2 } from "lucide-react";
 
 const services = [
   {
@@ -12,6 +12,16 @@ const services = [
     ]
   },
   {
+    icon: Paintbrush,
+    title: "Pintura de Interiores y Exteriores",
+    benefits: [
+      "Acabados profesionales impecables",
+      "Preparación y tratamiento de superficies",
+      "Pinturas de alta calidad",
+      "Asesoramiento en colores y acabados"
+    ]
+  },
+  {
     icon: Home,
     title: "Limpieza Integral de Viviendas",
     benefits: [
@@ -22,21 +32,11 @@ const services = [
     ]
   },
   {
-    icon: ChefHat,
-    title: "Cocinas y Cristales",
-    benefits: [
-      "Desengrasado profesional",
-      "Cristales sin marcas ni huellas",
-      "Superficies relucientes",
-      "Acabados perfectos"
-    ]
-  },
-  {
     icon: Building2,
     title: "Comunidades y Oficinas",
     benefits: [
       "Mantenimiento regular programado",
-      "Espacios comunes impecables",
+      "Pintura y limpieza de zonas comunes",
       "Flexibilidad horaria",
       "Servicio puntual y fiable"
     ]
@@ -53,10 +53,10 @@ const Services = () => {
             Nuestros Servicios
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Soluciones de Limpieza para Cada Necesidad
+            Limpieza y Pintura para Cada Necesidad
           </h2>
           <p className="text-muted-foreground text-lg">
-            Servicios profesionales adaptados a particulares y empresas en Madrid
+            Servicios profesionales de limpieza y pintura en Madrid y alrededores
           </p>
         </div>
 
